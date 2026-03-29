@@ -7,7 +7,7 @@ taxonomy:
         - zaci2
         - hobby
 id: 2026-race_2376
-start: '2026-05-01'
+start: '2026-04-30'
 end: '2026-05-03'
 title: 'VT Luhačovice'
 place: Luhačovice
@@ -30,7 +30,7 @@ food: ''
 leader: 'Věra Nováčková Obelczová'
 note: "Mapové soustředění pro všechny kategorie, celkem 5 mapových tréninků.\r\nUbytování: [Autocamp Luhačovice](https://www.atcluhacovice.cz/).\r\n**Pozor**, jedná se o velmi oblíbené soustředění a maximální kapacita ubytování je **55 osob**, neváhejte s přihlašováním."
 return: 'neděle 3.5. v odpoledních hodinách'
-price: "Maximální cena pro děti je ...... Kč, pro dospělé .... Kč.\r\nCena bude stržena dle skutečných nákladů a odečtení dotace oddílu."
+price: "Maximální cena pro děti je 3200 Kč, pro dospělé 3500 Kč.\r\nCena bude stržena dle skutečných nákladů a odečtení dotace oddílu."
 program: 'tréninky OB, rozbory, hry, výlet.'
 thingsToTake: "buzola, čip, věci na běhání, běháme za každého počasí, takže nezapomeňte si přibalit teplouše...\r\nI oblečení na sebe přizpůsobit počasí. Psací potřeby, tréninkový deník."
 signups: ''
