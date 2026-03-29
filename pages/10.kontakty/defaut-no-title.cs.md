@@ -16,12 +16,12 @@ primaryImage: {  }
 <hr>
 <h2>Další užitečné kontakty</h2>
 <ul class="list-unstyled">
-    <li class="mb-3"><strong>Finance:</strong> Aleš Finstrle - koordinator@zabiny.club</li>
+    <li class="mb-3"><strong>Finance:</strong> Aleš Finstrle - ales.finstrle@zabiny.club</li>
     <li class="mb-3"><strong>Přihlášky na závody:</strong> Jan Drábek - prihlasky@zabiny.club</li>
     <li class="mb-3"><strong>IT - přihláškový systém:</strong> Lukáš König - kenia@seznam.cz</li>
     <li class="mb-3"><strong>IT - web:</strong> Otakar Hirš - otakar.hirs@gmail.com</li>
-    <li class="mb-3"><strong>Správce map:</strong> Stanislav Mokrý - mokry.stanislav@gmail.com</li>
-    <li class="mb-3"><strong>Oddílové oblečení:</strong> Barbora Zháňalová - barborazhanalova@gmail.com</li>
+    <li class="mb-3"><strong>Správce map:</strong> Stanislav Mokrý - mapy@zabiny.club</li>
+    <li class="mb-3"><strong>Oddílové oblečení:</strong> Barbora Zháňalová - barbora.zhanalova@zabiny.club</li>
 </ul>
 
 <div class="row">
@@ -78,8 +78,8 @@ primaryImage: {  }
             {% include 'partials/trainer.html.twig' with {name: 'Otakar Hirš', email: 'otakar.hirs@gmail.com'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Miloš Nykodým', email: 'milos.nykodym@zabiny.club', photo: 'milos-nykodym-2'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Klára Barnatová', email: 'klara.barnatova@gmail.com', photo: 'klara-barnatova-1'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Barbora Zháňalová', email: 'barborazhanalova@gmail.com', photo: 'barca-zhanalova-1'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Michal Dvořáček', email: 'mdvoracek3@gmail.com'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Barbora Zháňalová', email: 'barbora.zhanalova@zabiny.club', photo: 'barca-zhanalova-1'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Michal Dvořáček', email: 'michal.dvoracek@zabiny.club'} %}
         </div>
     </div>
     <div class="divOuter col-lg-6" id="hobby">
