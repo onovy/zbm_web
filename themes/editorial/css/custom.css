@@ -262,6 +262,7 @@
     width: 80px;
     height: 80px;
     object-fit: cover;
+    object-position: top;
     flex-shrink: 0;
 }
 .contact-trainer__info {
