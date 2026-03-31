@@ -68,22 +68,16 @@ plan:
             -
                 group:
                     - zaci1
-                    - zaci2
-                name: 'Běžecký trénink'
-                time: '16:30 – 18:00'
-                place: 'hala Rosnička'
+                name: VOLNO
+                time: ''
+                place: 'Velikonoční prázdniny'
             -
                 group:
                     - pulci1
                     - pulci2
-                name: Tělocvična
-                time: '16:00 - 17:00'
-                place: 'ZŠ Sirotkova'
-        friday:
-            1773048822845:
-                name: ''
+                name: VOLNO
                 time: ''
-                place: ''
+                place: 'Velikonoční prázdniny'
     nextWeek:
         monday:
             -
@@ -95,65 +89,72 @@ plan:
             -
                 group:
                     - zaci1
-                    - zaci2
-                name: Tělocvična
-                time: '17:00 – 18:30'
-                place: 'hala Rosnička'
+                name: VOLNO
+                time: ''
+                place: 'Velikonoční prázdniny'
         tuesday:
-            -
-                group:
-                    - zaci2
-                name: 'Běžecký trénink + teorie'
-                time: '16:00 – 18:00'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
-            -
+            1:
                 group:
                     - dorost
                 name: 'Běžecký trénink + teorie'
                 time: '16:30'
                 place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
-            -
+            2:
                 group:
                     - zabicky
                     - pulci1
                     - pulci2
                     - zaci1
-                name: 'Mapový trénink + teorie'
-                time: '16:00 – 18:00'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
-            -
+                    - zaci2
+                    - hobby
+                name: 'Mapový trénink '
+                time: '16:15– 18:00'
+                place: 'Kozí hora (Palačák)'
+            3:
                 group:
                     - hobby
                 name: 'Společný běh'
                 time: '16:00'
                 place: 'ZŠ Nám. Svornosti'
         wednesday:
-            -
+            0:
                 group:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
                 place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+            1767681211545:
+                group:
+                    - hobby
+                name: 'Online teorie'
+                time: '20:00'
+                place: meet.google.com/rwz-ugkn-kgu
         thursday:
-            -
+            0:
                 group:
                     - dorost
                 name: 'Běžecký trénink'
                 time: '16:45'
                 place: 'hala Rosnička'
-            -
+            1:
                 group:
                     - zaci1
-                name: 'Běžecký trénink'
-                time: '16:30 – 18:00'
-                place: 'hala Rosnička'
-            -
+                    - zaci2
+                name: 'Běžecký trénink - dráha'
+                time: '16:00 – 18:00'
+                place: 'sraz 15:45 před vstuped do sportovní areálu VUT, Palačák, https://mapy.com/s/nacelejonu'
+            1774852121633:
                 group:
                     - pulci1
                     - pulci2
-                name: Tělocvična
-                time: '16:00 - 17:00'
-                place: 'ZŠ Sirotkova'
+                name: 'Běžecká příprava - '
+                time: '16:00  - 17:30'
+                place: 'areál vedel staduionu VUT Palačák, sraz a místo tréninku: https://mapy.com/s/conavodete'
+        friday:
+            1774852680812:
+                name: ''
+                time: ''
+                place: ''
         saturday:
             -
                 group:
@@ -163,30 +164,26 @@ plan:
                 place: samostatně
     next2Week:
         monday:
-            0:
+            -
                 group:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
                 place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
-            1:
+            -
                 group:
                     - zaci1
                     - zaci2
                 name: Tělocvična
                 time: '17:00 – 18:30'
                 place: 'hala Rosnička'
-            1767681211544:
-                name: ''
-                time: ''
-                place: ''
         tuesday:
             -
                 group:
                     - zaci2
-                name: 'Běžecký trénink + teorie'
-                time: '16:00 – 18:00'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                name: 'Mapový trénink'
+                time: '16:15– 18:00'
+                place: 'okolí Brna'
             -
                 group:
                     - dorost
@@ -222,85 +219,53 @@ plan:
                 time: '20:00'
                 place: meet.google.com/rwz-ugkn-kgu
         thursday:
-            0:
+            -
                 group:
                     - dorost
                 name: 'Běžecký trénink'
                 time: '16:45'
                 place: 'hala Rosnička'
-            1:
+            -
                 group:
                     - zaci1
                     - zaci2
                 name: 'Běžecký trénink'
-                time: '16:30 – 18:00'
-                place: 'hala Rosnička'
-            2:
+                time: '16:00 – 18:00'
+                place: 'sraz 15:45 před vstuped do sportovní areálu VUT, Palačák, https://mapy.com/s/nacelejonu'
+            -
                 group:
                     - pulci1
                     - pulci2
                 name: Tělocvična
                 time: '16:00 - 17:00'
                 place: 'ZŠ Sirotkova'
-            1767681211545:
-                name: ''
-                time: ''
-                place: ''
         friday:
-            1767681210175:
-                name: ''
-                time: ''
-                place: ''
-            1767681211545:
-                name: ''
-                time: ''
-                place: ''
-        saturday:
-            0:
-                group:
-                    - zaci2
-                name: 'Běh dle plánu'
-                time: ''
-                place: samostatně
-            1767681211545:
-                name: ''
-                time: ''
-                place: ''
-        sunday:
-            1767681210176:
-                name: ''
-                time: ''
-                place: ''
-            1767681211546:
+            1774852680813:
                 name: ''
                 time: ''
                 place: ''
     next3Week:
         monday:
-            0:
+            -
                 group:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
                 place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
-            1:
+            -
                 group:
                     - zaci1
                     - zaci2
                 name: Tělocvična
                 time: '17:00 – 18:30'
                 place: 'hala Rosnička'
-            1767681211544:
-                name: ''
-                time: ''
-                place: ''
         tuesday:
             -
                 group:
                     - zaci2
-                name: 'Běžecký trénink + teorie'
-                time: '16:00 – 18:00'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                name: 'Mapový trénink'
+                time: '16:15– 18:00'
+                place: 'okolí Brna'
             -
                 group:
                     - dorost
@@ -336,59 +301,26 @@ plan:
                 time: '20:00'
                 place: meet.google.com/rwz-ugkn-kgu
         thursday:
-            0:
+            -
                 group:
                     - dorost
                 name: 'Běžecký trénink'
                 time: '16:45'
                 place: 'hala Rosnička'
-            1:
+            -
                 group:
                     - zaci1
                     - zaci2
                 name: 'Běžecký trénink'
-                time: '16:30 – 18:00'
-                place: 'hala Rosnička'
-            2:
+                time: '16:00 – 18:00'
+                place: 'sraz 15:45 před vstuped do sportovní areálu VUT, Palačák, https://mapy.com/s/nacelejonu'
+            -
                 group:
                     - pulci1
                     - pulci2
                 name: Tělocvična
                 time: '16:00 - 17:00'
                 place: 'ZŠ Sirotkova'
-            1767681211545:
-                name: ''
-                time: ''
-                place: ''
-        friday:
-            1767681210175:
-                name: ''
-                time: ''
-                place: ''
-            1767681211545:
-                name: ''
-                time: ''
-                place: ''
-        saturday:
-            0:
-                group:
-                    - zaci2
-                name: 'Běh dle plánu'
-                time: ''
-                place: samostatně
-            1767681211545:
-                name: ''
-                time: ''
-                place: ''
-        sunday:
-            1767681210176:
-                name: ''
-                time: ''
-                place: ''
-            1767681211546:
-                name: ''
-                time: ''
-                place: ''
 ---
 
 <div class="row justify-content-between"> 

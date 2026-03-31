@@ -15,5 +15,6 @@ import:
     type: members
     time: 1773352205
 hasStartlist: true
+hasResults: true
 ---
 
