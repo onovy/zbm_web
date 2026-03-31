@@ -5,13 +5,58 @@ primaryImage: {  }
 ---
 
 <h2>Vedení oddílu</h2>
-<ul class="list-unstyled">
-    <li class="mb-3"><strong>Předseda:</strong> Jan Fiala - predseda@zabiny.club</li>
-    <li class="mb-3"><strong>Trenér dorostu:</strong> Jan Zháňal - dorost@zabiny.club</li>
-    <li class="mb-3"><strong>Trenér žactva:</strong> Barbara Stachoňová - zactvo@zabiny.club</li>
-    <li class="mb-3"><strong>Pořadatel závodů:</strong> Jan Drábek - poradatel@zabiny.club</li>
-    <li class="mb-3"><strong>Koordinátor:</strong> Aleš Finstrle - koordinator@zabiny.club</li>
-</ul>
+<div class="row">
+    <div class="col-lg-6 mb-3">
+        <div class="contact-trainer">
+            <a class="contact-photo-link" data-full="{{page.route()}}/jan-fiala-1.png"><img src="{{page.route()}}/jan-fiala-1-thumb.jpg" alt="Jan Fiala" class="contact-trainer__photo img-fluid rounded-circle"></a>
+            <div class="contact-trainer__info">
+                <strong>Předseda</strong><br>
+                Jan Fiala<br>
+                <i class="fa fa-envelope"></i> predseda@zabiny.club
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6 mb-3">
+        <div class="contact-trainer">
+            <a class="contact-photo-link" data-full="{{page.route()}}/jan-zhanal-1.png"><img src="{{page.route()}}/jan-zhanal-1-thumb.jpg" alt="Jan Zháňal" class="contact-trainer__photo img-fluid rounded-circle"></a>
+            <div class="contact-trainer__info">
+                <strong>Trenér dorostu</strong><br>
+                Jan Zháňal<br>
+                <i class="fa fa-envelope"></i> dorost@zabiny.club
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6 mb-3">
+        <div class="contact-trainer">
+            <a class="contact-photo-link" data-full="{{page.route()}}/barbara-stachonova-1.png"><img src="{{page.route()}}/barbara-stachonova-1-thumb.jpg" alt="Barbara Stachoňová" class="contact-trainer__photo img-fluid rounded-circle"></a>
+            <div class="contact-trainer__info">
+                <strong>Trenér žactva</strong><br>
+                Barbara Stachoňová<br>
+                <i class="fa fa-envelope"></i> zactvo@zabiny.club
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6 mb-3">
+        <div class="contact-trainer">
+            <a class="contact-photo-link" data-full="{{page.route()}}/jan-drabek-1.png"><img src="{{page.route()}}/jan-drabek-1-thumb.jpg" alt="Jan Drábek" class="contact-trainer__photo img-fluid rounded-circle"></a>
+            <div class="contact-trainer__info">
+                <strong>Pořadatel závodů</strong><br>
+                Jan Drábek<br>
+                <i class="fa fa-envelope"></i> poradatel@zabiny.club
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6 mb-3">
+        <div class="contact-trainer">
+            <a class="contact-photo-link" data-full="{{page.route()}}/ales-finstrle-1.png"><img src="{{page.route()}}/ales-finstrle-1-thumb.jpg" alt="Aleš Finstrle" class="contact-trainer__photo img-fluid rounded-circle"></a>
+            <div class="contact-trainer__info">
+                <strong>Koordinátor</strong><br>
+                Aleš Finstrle<br>
+                <i class="fa fa-envelope"></i> koordinator@zabiny.club
+            </div>
+        </div>
+    </div>
+</div>
 
 <hr>
 <h2>Další užitečné kontakty</h2>
@@ -32,8 +77,8 @@ primaryImage: {  }
     <div class="divOuter col-lg-6" id="zabicky">
         <div class="contact--divInner">
         <h3>Žabičky - do 6 let</h3>
-            {% include 'partials/trainer.html.twig' with {name: 'Veronika Křístková', email: 'fricco@seznam.cz'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Stachoňová Barbara', email: 'bara.stachonova@zabiny.club'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Veronika Křístková', email: 'fricco@seznam.cz', photo: 'veronika-kristkova-1'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Stachoňová Barbara', email: 'bara.stachonova@zabiny.club', photo: 'barbara-stachonova-1'} %}
         </div>
     </div>
     <div class="divOuter col-lg-6" id="pulci1">
@@ -66,27 +111,27 @@ primaryImage: {  }
         <h3>Žáci 2 - od 12 let</h3>
             {% include 'partials/trainer.html.twig' with {name: 'Julie Finstrlová', email: 'julie.finstrlova@zabiny.club', phone: '+420 702 244 733'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Pavel Rotek', email: 'pavel.rotek@zabiny.club', phone: '+420 603 884 000'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Štěpán Zimmermann', email: 'stepan.zimmermann@zabiny.club'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Štěpán Zimmermann', email: 'stepan.zimmermann@zabiny.club', photo: 'stepan-zimmermann-1'} %}
         </div>
     </div>
     <div class="divOuter col-lg-6" id="dorost">
         <div class="contact--divInner">
         <h3>Dorost+ - od 15 let</h3>
             {% include 'partials/trainer.html.twig' with {name: 'Jan Zháňal', email: 'jan.zhanal@zabiny.club', phone: '+420 725 258 326', photo: 'jan-zhanal-1'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Alexandr Jordanov', email: 'alexandr.jordanov95@gmail.com'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Stanislav Mokrý', email: 'mokry.stanislav@gmail.com'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Alexandr Jordanov', email: 'alexandr.jordanov95@gmail.com', photo: 'alexandr-jordanov-1'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Stanislav Mokrý', email: 'mokry.stanislav@gmail.com', photo: 'stanislav-mokry-1'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Otakar Hirš', email: 'otakar.hirs@gmail.com'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Miloš Nykodým', email: 'milos.nykodym@zabiny.club', photo: 'milos-nykodym-2'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Klára Barnatová', email: 'klara.barnatova@gmail.com', photo: 'klara-barnatova-1'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Barbora Zháňalová', email: 'barbora.zhanalova@zabiny.club', photo: 'barca-zhanalova-1'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Michal Dvořáček', email: 'michal.dvoracek@zabiny.club'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Michal Dvořáček', email: 'michal.dvoracek@zabiny.club', photo: 'michal-dvoracek-1'} %}
         </div>
     </div>
     <div class="divOuter col-lg-6" id="hobby">
         <div class="contact--divInner">
         <h3>Hobby</h3>
             {% include 'partials/trainer.html.twig' with {name: 'Jan Drábek', email: 'jan.drabek@zabiny.club', photo: 'jan-drabek-1'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Adam Jurák', email: 'kontakt@adamjurak.cz'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Adam Jurák', email: 'kontakt@adamjurak.cz', photo: 'adam-jurak-1'} %}
         </div>
     </div>
 </div>
