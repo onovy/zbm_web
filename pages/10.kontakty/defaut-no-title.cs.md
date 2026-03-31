@@ -32,8 +32,8 @@ primaryImage: {  }
     <div class="divOuter col-lg-6" id="zabicky">
         <div class="contact--divInner">
         <h3>Žabičky - do 6 let</h3>
-            {% include 'partials/trainer.html.twig' with {name: 'Veronika Křístková', email: 'fricco@seznam.cz'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Stachoňová Barbara', email: 'bara.stachonova@zabiny.club'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Veronika Křístková', email: 'fricco@seznam.cz', photo: 'veronika-kristkova-1'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Stachoňová Barbara', email: 'bara.stachonova@zabiny.club', photo: 'barbara-stachonova-1'} %}
         </div>
     </div>
     <div class="divOuter col-lg-6" id="pulci1">
@@ -66,27 +66,27 @@ primaryImage: {  }
         <h3>Žáci 2 - od 12 let</h3>
             {% include 'partials/trainer.html.twig' with {name: 'Julie Finstrlová', email: 'julie.finstrlova@zabiny.club', phone: '+420 702 244 733'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Pavel Rotek', email: 'pavel.rotek@zabiny.club', phone: '+420 603 884 000'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Štěpán Zimmermann', email: 'stepan.zimmermann@zabiny.club'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Štěpán Zimmermann', email: 'stepan.zimmermann@zabiny.club', photo: 'stepan-zimmermann-1'} %}
         </div>
     </div>
     <div class="divOuter col-lg-6" id="dorost">
         <div class="contact--divInner">
         <h3>Dorost+ - od 15 let</h3>
             {% include 'partials/trainer.html.twig' with {name: 'Jan Zháňal', email: 'jan.zhanal@zabiny.club', phone: '+420 725 258 326', photo: 'jan-zhanal-1'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Alexandr Jordanov', email: 'alexandr.jordanov95@gmail.com'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Stanislav Mokrý', email: 'mokry.stanislav@gmail.com'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Alexandr Jordanov', email: 'alexandr.jordanov95@gmail.com', photo: 'alexandr-jordanov-1'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Stanislav Mokrý', email: 'mokry.stanislav@gmail.com', photo: 'stanislav-mokry-1'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Otakar Hirš', email: 'otakar.hirs@gmail.com'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Miloš Nykodým', email: 'milos.nykodym@zabiny.club', photo: 'milos-nykodym-2'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Klára Barnatová', email: 'klara.barnatova@gmail.com', photo: 'klara-barnatova-1'} %}
             {% include 'partials/trainer.html.twig' with {name: 'Barbora Zháňalová', email: 'barbora.zhanalova@zabiny.club', photo: 'barca-zhanalova-1'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Michal Dvořáček', email: 'michal.dvoracek@zabiny.club'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Michal Dvořáček', email: 'michal.dvoracek@zabiny.club', photo: 'michal-dvoracek-1'} %}
         </div>
     </div>
     <div class="divOuter col-lg-6" id="hobby">
         <div class="contact--divInner">
         <h3>Hobby</h3>
             {% include 'partials/trainer.html.twig' with {name: 'Jan Drábek', email: 'jan.drabek@zabiny.club', photo: 'jan-drabek-1'} %}
-            {% include 'partials/trainer.html.twig' with {name: 'Adam Jurák', email: 'kontakt@adamjurak.cz'} %}
+            {% include 'partials/trainer.html.twig' with {name: 'Adam Jurák', email: 'kontakt@adamjurak.cz', photo: 'adam-jurak-1'} %}
         </div>
     </div>
 </div>
