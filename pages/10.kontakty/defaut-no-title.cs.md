@@ -5,13 +5,58 @@ primaryImage: {  }
 ---
 
 <h2>Vedení oddílu</h2>
-<ul class="list-unstyled">
-    <li class="mb-3"><strong>Předseda:</strong> Jan Fiala - predseda@zabiny.club</li>
-    <li class="mb-3"><strong>Trenér dorostu:</strong> Jan Zháňal - dorost@zabiny.club</li>
-    <li class="mb-3"><strong>Trenér žactva:</strong> Barbara Stachoňová - zactvo@zabiny.club</li>
-    <li class="mb-3"><strong>Pořadatel závodů:</strong> Jan Drábek - poradatel@zabiny.club</li>
-    <li class="mb-3"><strong>Koordinátor:</strong> Aleš Finstrle - koordinator@zabiny.club</li>
-</ul>
+<div class="row">
+    <div class="col-lg-6 mb-3">
+        <div class="contact-trainer">
+            <a class="contact-photo-link" data-full="{{page.route()}}/jan-fiala-1.png"><img src="{{page.route()}}/jan-fiala-1-thumb.jpg" alt="Jan Fiala" class="contact-trainer__photo img-fluid rounded-circle"></a>
+            <div class="contact-trainer__info">
+                <strong>Předseda</strong><br>
+                Jan Fiala<br>
+                <i class="fa fa-envelope"></i> predseda@zabiny.club
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6 mb-3">
+        <div class="contact-trainer">
+            <a class="contact-photo-link" data-full="{{page.route()}}/jan-zhanal-1.png"><img src="{{page.route()}}/jan-zhanal-1-thumb.jpg" alt="Jan Zháňal" class="contact-trainer__photo img-fluid rounded-circle"></a>
+            <div class="contact-trainer__info">
+                <strong>Trenér dorostu</strong><br>
+                Jan Zháňal<br>
+                <i class="fa fa-envelope"></i> dorost@zabiny.club
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6 mb-3">
+        <div class="contact-trainer">
+            <a class="contact-photo-link" data-full="{{page.route()}}/barbara-stachonova-1.png"><img src="{{page.route()}}/barbara-stachonova-1-thumb.jpg" alt="Barbara Stachoňová" class="contact-trainer__photo img-fluid rounded-circle"></a>
+            <div class="contact-trainer__info">
+                <strong>Trenér žactva</strong><br>
+                Barbara Stachoňová<br>
+                <i class="fa fa-envelope"></i> zactvo@zabiny.club
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6 mb-3">
+        <div class="contact-trainer">
+            <a class="contact-photo-link" data-full="{{page.route()}}/jan-drabek-1.png"><img src="{{page.route()}}/jan-drabek-1-thumb.jpg" alt="Jan Drábek" class="contact-trainer__photo img-fluid rounded-circle"></a>
+            <div class="contact-trainer__info">
+                <strong>Pořadatel závodů</strong><br>
+                Jan Drábek<br>
+                <i class="fa fa-envelope"></i> poradatel@zabiny.club
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6 mb-3">
+        <div class="contact-trainer">
+            <a class="contact-photo-link" data-full="{{page.route()}}/ales-finstrle-1.png"><img src="{{page.route()}}/ales-finstrle-1-thumb.jpg" alt="Aleš Finstrle" class="contact-trainer__photo img-fluid rounded-circle"></a>
+            <div class="contact-trainer__info">
+                <strong>Koordinátor</strong><br>
+                Aleš Finstrle<br>
+                <i class="fa fa-envelope"></i> koordinator@zabiny.club
+            </div>
+        </div>
+    </div>
+</div>
 
 <hr>
 <h2>Další užitečné kontakty</h2>
