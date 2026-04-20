@@ -15,7 +15,7 @@ plan:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             -
                 group:
                     - zaci1
@@ -29,13 +29,13 @@ plan:
                     - zaci2
                 name: 'Běžecký trénink + teorie'
                 time: '16:00 – 18:00'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             -
                 group:
                     - dorost
                 name: 'Běžecký trénink + teorie'
                 time: '16:30'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             -
                 group:
                     - zabicky
@@ -44,7 +44,7 @@ plan:
                     - zaci1
                 name: 'Mapový trénink + teorie'
                 time: '16:00 – 18:00'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             -
                 group:
                     - hobby
@@ -57,7 +57,7 @@ plan:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
         thursday:
             -
                 group:
@@ -85,7 +85,7 @@ plan:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             -
                 group:
                     - zaci1
@@ -98,7 +98,7 @@ plan:
                     - dorost
                 name: 'Běžecký trénink + teorie'
                 time: '16:30'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             2:
                 group:
                     - zabicky
@@ -122,7 +122,7 @@ plan:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             1767681211545:
                 group:
                     - hobby
@@ -169,7 +169,7 @@ plan:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             -
                 group:
                     - zaci1
@@ -189,7 +189,7 @@ plan:
                     - dorost
                 name: 'Běžecký trénink + teorie'
                 time: '16:30'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             -
                 group:
                     - zabicky
@@ -198,7 +198,7 @@ plan:
                     - zaci1
                 name: 'Mapový trénink + teorie'
                 time: '16:00 – 18:00'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             -
                 group:
                     - hobby
@@ -211,7 +211,7 @@ plan:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             1767681211545:
                 group:
                     - hobby
@@ -251,7 +251,7 @@ plan:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             -
                 group:
                     - zaci1
@@ -271,7 +271,7 @@ plan:
                     - dorost
                 name: 'Běžecký trénink + teorie'
                 time: '16:30'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             -
                 group:
                     - zabicky
@@ -280,7 +280,7 @@ plan:
                     - zaci1
                 name: 'Mapový trénink + teorie'
                 time: '16:00 – 18:00'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             -
                 group:
                     - hobby
@@ -293,7 +293,7 @@ plan:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             1767681211545:
                 group:
                     - hobby

@@ -16,7 +16,7 @@ templates:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             -
                 group:
                     - zaci1
@@ -36,7 +36,7 @@ templates:
                     - dorost
                 name: 'Běžecký trénink + teorie'
                 time: '16:30'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             -
                 group:
                     - zabicky
@@ -45,7 +45,7 @@ templates:
                     - zaci1
                 name: 'Mapový trénink + teorie'
                 time: '16:00 – 18:00'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             -
                 group:
                     - hobby
@@ -58,7 +58,7 @@ templates:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             -
                 group:
                     - hobby
@@ -136,7 +136,7 @@ templates:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             -
                 group:
                     - hobby
@@ -195,7 +195,7 @@ templates:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
         tuesday:
             -
                 group:
@@ -217,7 +217,7 @@ templates:
                     - dorost
                 name: 'Běžecký trénink'
                 time: '16:30'
-                place: 'ZŠ náměstí Svornosti 7, https://mapy.cz/s/mozefojego'
+                place: 'ZŠ náměstí Svornosti 7, https://mapy.com/s/mozefojego'
             -
                 group:
                     - hobby
@@ -230,7 +230,7 @@ templates:
                     - dorost
                 name: Posilovna
                 time: '17:00 a 18:00'
-                place: 'Gymnázium Jaroška, https://en.mapy.cz/s/losesugahu'
+                place: 'Gymnázium Jaroška, https://mapy.com/s/losesugahu'
             -
                 group:
                     - hobby
@@ -284,7 +284,7 @@ templates:
                     - dorost
                 name: Posilovna
                 time: '15:15 a 18:00'
-                place: 'Sokol Žabovřesky, https://en.mapy.cz/s/gavotococu'
+                place: 'Sokol Žabovřesky, https://mapy.com/s/gavotococu'
             -
                 group:
                     - zaci2
@@ -310,7 +310,7 @@ templates:
                     - dorost
                 name: Posilovna
                 time: '15:15 a 18:00'
-                place: 'Sokol Žabovřesky, https://en.mapy.cz/s/gavotococu'
+                place: 'Sokol Žabovřesky, https://mapy.com/s/gavotococu'
         thursday:
             -
                 group:
@@ -348,7 +348,7 @@ templates:
                     - dorost
                 name: Posilování
                 time: '16:45'
-                place: 'nám Svornosti, https://en.mapy.cz/s/namovudojo'
+                place: 'nám Svornosti, https://mapy.com/s/namovudojo'
             -
                 group:
                     - zaci1
@@ -372,7 +372,7 @@ templates:
                     - dorost
                 name: 'Posilování + Běh dle plánu'
                 time: '16:30'
-                place: 'Rosnička, https://en.mapy.cz/s/resafolera'
+                place: 'Rosnička, https://mapy.com/s/resafolera'
         thursday:
             -
                 group:
